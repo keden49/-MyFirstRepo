@@ -1,3 +1,3 @@
-# -MyFirstRepo
+# MyFirstRepo
 Alx Linux SE 102 project
 This is my first repository created as part of a GitHub learning task
